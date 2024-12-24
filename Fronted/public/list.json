@@ -1,0 +1,50 @@
+[
+{
+    "id":1,
+    "name": "Laptop",
+    "tittle":"Laptop has been issue for the employee",
+    "price":0,
+    "catogery":"Cart",
+    "image":"https://img.freepik.com/free-vector/video-conference-remote-working-flat-illustration-screen-laptop-with-group-colleagues-people-conn_88138-548.jpg?t=st=1734815152~exp=1734818752~hmac=825aa9a461af4624fc3d8fd202044445263a4f6d1bf250ed869a1851bb248cf5&w=740"
+},
+{
+    "id":2,
+    "name": "Mobile",
+    "tittle":"Mobile has been issue for the employee",
+    "price":0,
+    "catogery":"Cart",
+    "image":"https://img.freepik.com/free-vector/video-conference-remote-working-flat-illustration-screen-laptop-with-group-colleagues-people-conn_88138-548.jpg?t=st=1734815152~exp=1734818752~hmac=825aa9a461af4624fc3d8fd202044445263a4f6d1bf250ed869a1851bb248cf5&w=740"
+},
+{
+    "id":3,
+    "name": "Sim",
+    "tittle":"Sim has been issue for the employee",
+    "price":0,
+    "catogery":"Cart",
+    "image":"https://img.freepik.com/free-photo/top-view-sim-cards_23-2148779288.jpg?t=st=1734813195~exp=1734816795~hmac=d01ad51dddf470a55e077ac08a4d2989a9e7c91dc17a82d6e2adde153b6c0eae&w=740"
+},
+{
+    "id":4,
+    "name": "Email",
+    "tittle":"Email ID Generated",
+    "price":0,
+    "catogery":"Cart",
+    "image":"https://img.freepik.com/free-vector/email-circles-set_78370-6632.jpg?t=st=1734813214~exp=1734816814~hmac=e3c71542ae380f355da4f6bb7d099dc98b7cae689279ceaa490eed536f662f85&w=740"
+},
+{
+    "id":5,
+    "name": "Sequrite",
+    "tittle":"Security System has been Install",
+    "price":0,
+    "catogery":"Cart",
+    "image":"https://img.freepik.com/free-vector/server-rack-security-shield-realistic-illustration_1284-12131.jpg?t=st=1734813321~exp=1734816921~hmac=f547d8aac70cdfece50e4334e8aa09f7713626d68004e13ed8a92ffadfdce728&w=740"
+},
+{
+    "id":6,
+    "name": "Scalefusion",
+    "tittle":"Scalefusion Has been install successfull",
+    "price":0,
+    "catogery":"Cart",
+    "image":"https://img.freepik.com/free-vector/woman-personal-profile-employer-holding-job-candidate-cv-employee-resume-isolated-flat-design-element-medical-clinic-hospital-patient-card-concept-illustration_335657-1660.jpg?t=st=1734813503~exp=1734817103~hmac=f0fcff08409b320e3da79ea0b6d255214328f82e63671377ef519d1dfa3d926b&w=740"
+}
+]
